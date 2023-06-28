@@ -1,0 +1,14 @@
+.logo  {
+    font-family: 'Brush Script MT', cursive;
+}
+.img-footer{
+    background-image: url(https://media.bootcampcdn.com/Austin/img/content/online_data.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line{
+    width: 20px;
+    height: 2px;
+    background-color: white;
+}
